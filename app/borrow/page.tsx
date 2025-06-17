@@ -30,6 +30,9 @@ export default function HomePage() {
                 <Link href="/merchants" className="text-gray-600 hover:text-blue-600">
                   Merchants
                 </Link>
+                <Link href="/docs" className="text-gray-600 hover:text-blue-600">
+                  Docs
+                </Link>
               </nav>
               <Wallet>
                 <ConnectWallet>

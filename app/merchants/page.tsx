@@ -172,6 +172,9 @@ export default function MerchantsPage() {
                   Lend
                 </Link>
                 <span className="text-blue-600 font-medium">Merchants</span>
+                <Link href="/docs" className="text-gray-600 hover:text-blue-600">
+                  Docs
+                </Link>
               </nav>
               <Wallet>
                 <ConnectWallet>
